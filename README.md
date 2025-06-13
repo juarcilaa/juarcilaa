@@ -3,6 +3,4 @@
 </p>
 
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
 
-class Bio extends SoftwareDeveloper {
